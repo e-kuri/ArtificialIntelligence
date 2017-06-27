@@ -8,7 +8,7 @@ package vaccum;
 import agent.generic.Action;
 import agent.generic.Agent;
 import agent.generic.Environment;
-import agent.generic.ActionException;
+import agent.exception.ActionException;
 import java.util.List;
 import java.util.Random;
 import java.util.Set;

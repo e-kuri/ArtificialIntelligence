@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package agent.generic;
-
-import agent.exception.ActionException;
+package vaccum;
 
 /**
  *
  * @author kuri
  */
-public interface Action {
-    void execute(Agent agent) throws ActionException;
+public class VaccumSimpleReflexAgent {
+    
+    
+    
 }
